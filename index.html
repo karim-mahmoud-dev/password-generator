@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- importing Karla & Inter font-styles -->
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="hero">
+        <h1 class="title">Generate a <br> <span class="highlight-green">random password</span></h1>
+        <h3 class="subtitle">Never use an insecure password again.</h3>
+        <button class="generate-btn" onclick="generatePasswords()">Generate passwords</button>
+        <hr>
+        <div id="passwords-container">
+            <button class="password-btn" id="passwordOne" onclick="copyPasswordOne()"></button>
+            <button class="password-btn" id="passwordTwo" onclick="copyPasswordTwo()"></button>
+        </div>
+        <footer>
+            <p>Website Developed by Karim Mahmoud</p>
+            <p><a href="https://github.com/Karim-CODEE" target="_blank" class="footer-icon">[GitHub]</a> | <a href="https://www.linkedin.com/in/karim-mahmoud-73234a204" target="_blank" class="footer-icon">[LinkedIn]</a></p>
+        </footer>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
