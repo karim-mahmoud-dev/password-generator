@@ -20,7 +20,7 @@ During this project, I focused on:
 
 
 ## 📸 Preview
-*https://karim-codee.github.io/password-generator/*
+*https://github.com/karim-mahmoud-dev*
 
 ---
 Developed by [Karim Mahmoud Ahmed](https://github.com/karim-mahmoud-dev)
