@@ -23,4 +23,4 @@ During this project, I focused on:
 *https://karim-codee.github.io/password-generator/*
 
 ---
-Developed by [Karim Mahmoud Ahmed](https://github.com/Karim-CODEE)
+Developed by [Karim Mahmoud Ahmed](https://github.com/karim-mahmoud-dev)
